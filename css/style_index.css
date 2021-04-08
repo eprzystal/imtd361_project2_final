@@ -177,7 +177,6 @@ p {
 #left-sidebar li {
     font-size: .75em;
     text-align: left;
-    text-height: .5em;
     color: #58595B;
     list-style-type: square;
 }
@@ -196,7 +195,6 @@ p {
 #right-sidebar li {
     font-size: .75em;
     text-align: left;
-    text-height: .5em;
     color: #58595B;
     list-style-type: square;
 }
