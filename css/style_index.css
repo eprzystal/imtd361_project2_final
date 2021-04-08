@@ -141,8 +141,7 @@ p {
     height: auto;  
     position: relative;
     padding: 10px;
-}
-    
+}    
 
 #nav-forth {
     font-family: brandon-grotesque, sans-serif;
@@ -172,7 +171,6 @@ p {
     margin-left: -10px;
     margin-top: -40px;
 }
-
     
 #left-sidebar li {
     font-size: .75em;
